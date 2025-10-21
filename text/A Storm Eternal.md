@@ -36,6 +36,10 @@ The Slayer.md
 
 +++
 
+The Tower-Wise.md
+
++++
+
 The War-Herald.md
 
 +++
