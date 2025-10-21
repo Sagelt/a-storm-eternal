@@ -1,0 +1,1 @@
+When your passions threaten to lead you to action, roll your Grace. On a 10+, you may act as you please. On a 7-9 unless you act as your passions dictate you roll with -2.

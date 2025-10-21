@@ -1,0 +1,1 @@
+When you make a roll with significant aid from another (PC or NPC) you treat a 7-9 as a 10+ and a 6- as a 7-9. You may ask for help after a roll is made: tell someone present how they could aid you. If they do it, you have aid for the roll.

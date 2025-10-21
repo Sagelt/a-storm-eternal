@@ -1,0 +1,1 @@
+**When you invoke the forms** (of a culture, a faith, a generation) to someone bound by them, roll your Grace. On a 10+ you leave them no out, they must respond according to their values. On a 7–9 they may respond according to their values or gracefully decline but if they decline their behavior tells you much: you may ask them any one question from the Draw Them Out list.
