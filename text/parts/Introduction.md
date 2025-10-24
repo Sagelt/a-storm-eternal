@@ -156,6 +156,65 @@ become permanently marked and cannot be restored.
 
 +++
 
+## Regard
+
+A character’s regards are their strongest connections to others. Regards are phrased as “I _relation_ _person_ the most”: “I trust Valdor the most”, “I understand Harlow the most”, and so on.
+
+Each player character starts with a single regard for another player character. More regards may be gained through character change (see below).
+
+When a regard applies to a roll add +1 to the result. A regard applies when it would influence the character with the regard making the roll.
+
+Regards are introspective and may not be known by the subject of the regard. If Fáron trusts Valdor the most, it doesn’t matter if Valdor knows that, or if Valdor is actually trustworthy. It only matters that Fáron trusts Valdor the most, and that that impacts his actions.
+
++++
+
+## Oaths
+
+Oaths are public statements of binding intent. Oaths:
+
+* Are sworn _on something_
+* Are sworn _to someone_
+* Are sworn _to an achievable purpose_
+
+When an oath is sworn, the swearing character notes it on their character sheet. When pursuing that oath the character gets +1 on rolls related to the oath.
+
+Each character can have only one oath at a time.
+
+### Swearing An Oath
+
+When you swear an oath make a formal declaration including:
+
+* Who you are swearing to
+* What you are swearing on
+* What you swear to do
+
+If they accept your oath write it in your character sheet.
+
+### Pursuing An Oath
+
+When you take an action that is directly and obviously in service of your oath take +1 on any rolls. The player of the character the oath was sworn to (the GM for NPCs) decides if it is unclear.
+
+### Fulfilling An Oath
+
+When you believe your oath is fulfilled present yourself to the person the oath is sworn to and ask them if your oath is fulfilled. If they agree erase your oath and they choose one:
+
+* You increase a stat by 1 (max 3)
+* You gain a new move
+* You gain a new regard (in addition to existing regards)
+* You receive a boon from your gods (GM describes)
+
+### Releasing An Oath
+
+When you give up an oath present yourself to the person the oath is sworn to (or your gods if you cannot face them), erase your oath, and admit your failure. They will tell you how you can atone and the burden you will carry until you atone:
+
+* Reduce a stat (their choice) by 1
+* Lose access to a specific move
+* A supernatural mark
+
+You cannot swear another oath until you atone.
+
++++
+
 ## Equipment, Arms, & Bounty
 
 Each player is entitled to starting equipment befitting their station. The slayer has specific supernatural choices, for every other playbook it depends on the established character. Some potential starting equipment:
