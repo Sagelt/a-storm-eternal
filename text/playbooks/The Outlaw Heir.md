@@ -36,13 +36,16 @@ _Choose one to start with_
 When you make an entrance, grand or subtle, roll your Prowess. On 10+, choose someone present, they reveal (intentionally or unintentionally) their true feelings and disposition towards you. On a 7–9, as a 10+, but the GM chooses whom.
 
 ### Fated
-While your fate is reduced to still drawing breath, judge yourself. If you have not yet done your duty to your family, reset your fate to having more to do before you die.
+When your fate is reduced to still drawing breath, judge yourself. If you have not yet done your duty to your family, reset your fate to having more to do before you die.
 
 ### Much Yet to Learn
 When you take this move, choose your most trusted teacher or advisor. You immediately gain a move from their playbook (if they’re an NPC, ask the GM what playbook most closely fits). When you choose moves in the future you can choose moves from their playbook. If your trust shifts to another, you choose from their playbook going forward instead.
 
 ### By My Name
 You may petition your ancestors as you would supplicate your gods, rolling with an extra +1.
+
+### Allegiances Owed
+When you make formal introductions to those who hail from your ancestral hearth ask them one question from the Draw Them Out list for free. When you make formal introductions to those from outside your ancestral hearth, roll your Cunning. On hit the GM will tell you what they owe your bloodline. On a 10+ you may also ask them one question from the Draw Them Out list. On a 6- you gain nothing on them.
 
 ## Ancestral Hearth
 Your family once held a great hall and surrounding lands. The hall was
