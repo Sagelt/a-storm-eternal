@@ -8,26 +8,42 @@ width:100%
 
 +++
 
-## Rolling the Dice
+## Playing _A Storm Eternal_
 
-When a player character does something uncertain and
-important, its time to roll the dice.
+_A Storm Eternal_ is played with a Game Master (GM) and 2-5 players.
 
-The player takes two six-sided dice, rolls them, and adds them together. The GM decides what stat applies, if any, and the player adds the stat the GM named to the total.
+The GM is responsible for:
 
-The GM describes what happens based on the total. A total of 10+ is a success: it turns out as well as could be hoped for, given the situation. A 7–9 is a partial success: the player gets some of what they set out to do, but with a compromise, choice, or cost decided by the GM. A 6- is a failure, something goes wrong.
+* Establishing **truths** which are widely known facts about the world, the cultures within it, and the living things that inhabit it.
+* Creating **secrets** which are facts not known to the players about the world, cultures, and living things.
+* Recording **questions** that evolve in play which are unknown and not-yet-established elements of the world, cultures, and living things.
+* Presenting important situations derived from the truths, secrets, and questions to the players and following their actions in response.
+* Arbitrating the rules.
+
+The players are responsible for:
+
+* Creating their **characters** as active participants in the forming of a new world in a time of change.
+* Suggesting **truths** related to their characters’ place in the world.
+* Actively driving their characters forward to pursue their own goals and reacting to situations as they develop.
+* Applying the rules.
 
 +++
 
-## Rulings
+## Moves
 
-During play, some situations will come up often enough that you will develop a standard way of handling them. Any time a given way of handling a roll becomes a standard part of your toolkit, write it down on the rulings sheet.
+Some actions the player characters take are resolved by **moves.** Each move says when it applies and what happens when it applies. **Core moves** apply to actions taken by any player character, while **playbook moves** apply only to those that have gained that move.
 
-For example, in your game the giving of speeches may become a common occurrence (since the riverfolk have a tradition of host speeches at meals). Since making a proper speech that honors all involved is uncertain and important, the first time it happens the player making the speech rolls the dice. As more speeches happen during play the GM begins to handle them all the same way. Since making speeches is now always handled the same way the GM can write it down as a ruling.
+If no move applies the GM describes the outcome based on the circumstances. In most cases this is entirely straightforward: when a player character scrambles over a stone wall into ancient ruins no move applies, so the GM tells them what they see on the other side. When a player character talks to an NPC if no move triggers the GM responds as the NPC would.
 
-### Starting Rulings
+### Playbook Moves
 
-There are some situations we’ve already found to come up commonly in play. These are printed on the rulings sheet to start with, but like any other ruling they are yours to modify, add, or remove. Note that some of the player character abilities interact with the starting rulings, so you may have to make other changes if you change a starting ruling.
+Each character playbook has its own moves which are described in that playbook. They function the same as core moves, but are available only to the characters that have taken them.
+
+Some moves, such as The Outlaw Heir’s _Much Yet To Learn,_ grant moves from another playbook. 
+
+### Core Moves
+
+The core moves (listed over the next several pages) describe the  activities that most matter to the types of scenarios _A Storm Eternal_ aims for. They are available to all player characters and apply whenever they are triggered—the player cannot choose to not make a move if it triggers, nor can they trigger a move without their character doing a suitable action.
 
 +++
 
