@@ -156,22 +156,6 @@ become permanently marked and cannot be restored.
 
 +++
 
-## Character Change
-
-When a player wants to modify their character (perhaps
-gaining a new move, increasing an ability score, or becoming part of a new culture or religion) the player tells the GM
-what they’d like to improve. The GM will tell the player how
-many checks it will take, and what action their character
-can take to gain checks.
-
-For example, the Herald of the Ancients wants to increase
-their Rites by dedicating herself to the sea god with the help
-of the wicker-wise. The GM tells her this will take 5 checks
-and that checks can be gained any time she encounters the
-magic of the sea god in a new way.
-
-+++
-
 ## Equipment, Arms, & Bounty
 
 Each player is entitled to starting equipment befitting their station. The slayer has specific supernatural choices, for every other playbook it depends on the established character. Some potential starting equipment:
@@ -190,6 +174,22 @@ Trade goods are measured in bounty, defined as “a very valuable amount.” A b
 
 ### The Slayer’s Armory
 The slayer has access to many weapons and items which may do something. This means that under some circumstances they will behave as described, but it’s up to the slayer to discover how to reliably use this magic.
+
++++
+
+## Character Change
+
+When a player wants to modify their character (perhaps
+gaining a new move, increasing an ability score, or becoming part of a new culture or religion) the player tells the GM
+what they’d like to improve. The GM will tell the player how
+many checks it will take, and what action their character
+can take to gain checks.
+
+For example, the Herald of the Ancients wants to increase
+their Rites by dedicating herself to the sea god with the help
+of the wicker-wise. The GM tells her this will take 5 checks
+and that checks can be gained any time she encounters the
+magic of the sea god in a new way.
 
 +++
 
