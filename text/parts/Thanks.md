@@ -19,3 +19,7 @@ The current version of the game was developed through games played with:
 * Ken Kuhn (Harlow, Outlaw Heir)
 * Michael Weatherford (Valdor, War-Herald)
 * Sverre Rabbelier (Mother Ethel, Wicker-Wise)
+
+## Editing and Feedback
+
+* Dave Clark
