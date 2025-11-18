@@ -35,6 +35,20 @@ Some actions the player characters take are resolved by **moves.** Each move say
 
 If no move applies the GM describes the outcome based on the circumstances. In most cases this is entirely straightforward: when a player character scrambles over a stone wall into ancient ruins no move applies, so the GM tells them what they see on the other side. When a player character talks to an NPC if no move triggers the GM responds as the NPC would.
 
+### Dice And Stats
+
+Some moves say to “roll” or “roll+” something.
+
+**Roll** means rolling two six sided dice and adding them together. Each move will say how to read the total, but generally a 10+ is the best possible outcome, a 6- is the worst, and 7-9 are a compromise in between.
+
+**Roll+ _something_** means you add something to the roll—the move will say what. Most often this is one of the character’s stats:
+
+* _Cunning:_ their wits and wiles
+* _Grace:_ their empathy and connection to others
+* _Prowess:_ their physical power and reflexes 
+* _Rites:_ their ability to effect the supernatural
+* _War:_ their tactics, strategy, and leadership
+
 ### Playbook Moves
 
 Each character playbook has its own moves which are described in that playbook. They function the same as core moves, but are available only to the characters that have taken them.
@@ -281,3 +295,22 @@ How is up to you. When a player wants to do something that doesn’t seem possib
 * First you must _________
 * You’ll need help from __________
 * You’ll risk danger from ____________
+
++++
+
+# The GM
+
+## Sessions
+
+### Session 0
+
+### Planning Sessions
+
+Before sitting down to play a session use these steps to plan. A session plan is not a script to be followed, but starting momentum to begin play. You don’t need to know (and can’t know) how the session will end, only how it will begin.
+
+Your session plan consists of:
+
+* A recap of the previous session
+* A set of questions you are interested in answering
+* Notes on any follow up needed from last session
+* An opening situation to begin play with
