@@ -47,6 +47,9 @@ You may petition your ancestors as you would supplicate your gods, rolling with 
 ### Allegiances Owed
 When you make formal introductions to those who hail from your ancestral hearth ask them one question from the Draw Them Out list for free. When you make formal introductions to those from outside your ancestral hearth, roll your Cunning. On hit the GM will tell you what they owe your bloodline. On a 10+ you may also ask them one question from the Draw Them Out list. On a 6- you gain nothing on them.
 
+### Bound By Blood
+You gain another Oath, but it must be sworn to your family—living, dead, or other. If you fulfill that oath you may swear another (still to you family).
+
 ## Ancestral Hearth
 Your family once held a great hall and surrounding lands. The hall was
 
